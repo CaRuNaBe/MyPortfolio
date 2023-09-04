@@ -5,7 +5,7 @@ MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - cam: {instanceID: 0}
-  - postProcessMaterial: {fileID: 2100000, guid: ee951d0c823ef7d459991ff15a35155e, type: 2}
+  - postProcessMaterial: {fileID: 2100000, guid: 0b23c4593389d014cb8f6e9e298d61fd, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

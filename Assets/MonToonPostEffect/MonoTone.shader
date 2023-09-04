@@ -1,4 +1,4 @@
-Shader"Custom/monoTone"
+ Shader"Custom/MonoTone"
 {
     Properties 
     {
@@ -10,7 +10,7 @@ Shader"Custom/monoTone"
         Pass 
         {
 CGPROGRAM
-#include "PostEffect.hlsl"
+#include "MonoTone.hlsl"
 ENDCG
         }
     }
